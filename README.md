@@ -8,8 +8,4 @@ Mimir is dedicated to providing advanced multisig account management solutions. 
 
 
 
-Mimir submitted a treasury proposal:
-
-[https://polkadot.subsquare.io/referenda/462](https://polkadot.subsquare.io/referenda/462)
-
-❤We would be glad if you vote 'Aye' ❤
+Mimir is funded by Polkadot Treasury

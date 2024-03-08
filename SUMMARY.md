@@ -17,9 +17,11 @@
 * [🟢 Create Multisig](guide/create-multisig/README.md)
   * [Create Nested Multisig](guide/create-multisig/create-nested-multisig.md)
 * [📥 Import/Export Multisig](guide/import-export-multisig.md)
-* [🛠 Initiate Transactions](guide/initiate-transactions.md)
-* [⚖ Manage Transactions](guide/manage-transactions.md)
+* [🛠️ Initiate Transactions](guide/initiate-transactions.md)
+* [⚖️ Manage Transactions](guide/manage-transactions.md)
+* [🏛️ Multi-Sig Governance in Polkadot](guide/multi-sig-governance-in-polkadot.md)
+* [💹 Participate Polkadot Native Staking](guide/participate-polkadot-native-staking.md)
 
 ## Resources
 
-* [🖥 Mimir SDK](resources/mimir-sdk.md)
+* [🖥️ Mimir SDK](resources/mimir-sdk.md)
