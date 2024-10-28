@@ -70,4 +70,28 @@ Flexible Multisig is an account type formed by the combination of the Proxy Pall
 1. Multiple transactions are required during the creation process, and a certain Reserve Fund needs to be prepared.
 2. Each creation is only effective in the currently selected network
 
-###
+### 2.4 Proxy
+
+#### Normal Proxy
+
+When a proxy account makes a transaction, Polkadot filters the desired transaction to ensure that the proxy account has the appropriate permission to make that transaction on behalf of the proxied account. For example, staking proxies have permission to do only staking-related transactions.
+
+#### Pure Proxy
+
+Pure proxies are new accounts that are _created_ (not assigned) by a primary account. That primary account then acts as _any_ proxy on behalf of the pure proxy. Pure proxies are **keyless non-deterministic accounts** as they do not have a private key but they have an address that is randomly generated. Also, in some sense, nobody owns a pure proxy as nobody has a private key to control them.
+
+#### Proxy Types
+
+When a proxy account makes a transaction, Polkadot filters the desired transaction to ensure that the proxy account has the appropriate permission to make that transaction on behalf of the proxied account. For example, staking proxies have permission to do only staking-related transactions.
+
+When you set a proxy, you must choose a type of proxy for the relationship with the proxied account.
+
+* **Any**: allow any transaction, including balance transfers. In most cases, this should be avoided as the proxy account is used more frequently than the cold account and is therefore less secure.
+* **Non-transfer**: allow any type of transaction except [balance transfers](https://wiki.polkadot.network/docs/learn-transactions#balance-transfers) (including [vested](https://wiki.polkadot.network/docs/learn-transactions#vested-transfers) transfers). Hence, this proxy does not have permission to access calls in the Balances and XCM pallet.
+* **Governance**: allow to make transactions related to governance.
+* **Nomination pool**: allow transactions pertaining to [Nomination Pools](https://wiki.polkadot.network/docs/learn-nomination-pools).
+* **Staking**: allow all staking-related transactions. The stash account is meant to stay in cold storage, while the staking proxy account makes day-to-day transactions like setting session keys or deciding which validators to nominate. Visit the [Advanced Staking Concepts page](https://wiki.polkadot.network/docs/learn-staking-advanced#staking-proxies) for more detailed information about staking proxies.
+* **Identity Judgement**: allow registrars to make judgments on an account's identity. If you are unfamiliar with judgment and identities on chain, please refer to [this page](https://wiki.polkadot.network/docs/learn-identity#judgements). This proxy can only access `provide_judgement` call from the Identity pallet along with the calls from the Utility pallet.
+* **Cancel**: allow to reject and remove any time-delay proxy announcements. This proxy can only access `reject_announcement` call from the Proxy pallet.
+* **Spokesperson**: Kusama-specific proxy type that only allows `remark` or `remark_with_event` calls.
+* **Society**: Kusama-specific proxy type that only allows [society-related](https://wiki.polkadot.network/docs/maintain-guides-society-kusama) calls.
