@@ -4,6 +4,7 @@
 
 * [💡 Mimir Introduction](README.md)
 * [💰 Multisig Introduction](product-introduction/multisig-introduction.md)
+* [Proxy Introduction](product-introduction/proxy-introduction.md)
 
 ## Features
 
