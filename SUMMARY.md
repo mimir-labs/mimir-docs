@@ -10,8 +10,10 @@
 
 * [💳 Accounts](features/accounts/README.md)
   * [Advanced - Nested Multisig](features/accounts/advanced-nested-multisig.md)
+  * [Advanced - Time Delayed Proxy](features/accounts/advanced-time-delayed-proxy.md)
 * [📍 Dapps](features/dapps.md)
 * [🏧 Transaction](features/transaction.md)
+* [💼 Cache](features/cache.md)
 
 ## Guide
 
