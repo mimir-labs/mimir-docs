@@ -19,7 +19,8 @@
 
 * [🟢 Create Multisig](guide/create-multisig/README.md)
   * [Create Nested Multisig](guide/create-multisig/create-nested-multisig.md)
-* [🟢 Create Proxy](guide/create-proxy.md)
+* [🟢 Create Proxy](guide/create-proxy/README.md)
+  * [Create Pure Proxy](guide/create-proxy/create-pure-proxy.md)
 * [📥 Import/Export Multisig](guide/import-export-multisig.md)
 * [🛠️ Initiate Transactions](guide/initiate-transactions.md)
 * [⚖️ Manage Transactions](guide/manage-transactions.md)
