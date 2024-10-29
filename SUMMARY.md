@@ -23,7 +23,8 @@
   * [Create Pure Proxy](guide/create-proxy/create-pure-proxy.md)
 * [📥 Import/Export Multisig](guide/import-export-multisig.md)
 * [🛠️ Initiate Transactions](guide/initiate-transactions.md)
-* [⚖️ Manage Transactions](guide/manage-transactions.md)
+* [⚖️ Manage Transactions](guide/manage-transactions/README.md)
+  * [⏳ Manage Delayed Proxy Transactions](guide/manage-transactions/manage-delayed-proxy-transactions.md)
 * [🏛️ Multi-Sig Governance in Polkadot](guide/multi-sig-governance-in-polkadot.md)
 * [💹 Participate Polkadot Native Staking](guide/participate-polkadot-native-staking.md)
 

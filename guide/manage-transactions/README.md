@@ -1,10 +1,10 @@
-# ⚖ Manage Transactions
+# ⚖️ Manage Transactions
 
 After accessing the Transaction page, users can view the list of pending transactions for the selected account in the Pending section.
 
 All members can view the transaction details and progress, and decide how to handle it.
 
-<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 ## Function
 
@@ -20,7 +20,7 @@ If you initiated the transaction, you can choose to cancel it. Once canceled, it
 
 ### Restore
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 If this transaction was initiated through another application, you can enter the Call Data to restore the transaction.
 
@@ -30,9 +30,9 @@ If this transaction was initiated through another application, you can enter the
 
 The 'Process' section shows the current progress of the transaction, displaying the approval status of multisig members.&#x20;
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 If this transaction involves nested multisig accounts, users can click on "overview" to view the details.
 
@@ -44,6 +44,6 @@ It includes the specific details of the transaction, the method called, and its 
 
 It contains the transaction's Call Hash, Call Data, and initiating Tx Hash. Users can verify the transaction using third-party tools.
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 If this transaction is part of a nested multisig hierarchy, users can also view the final execution address.
