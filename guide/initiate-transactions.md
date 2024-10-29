@@ -15,10 +15,11 @@ To illustrate, let's use a transfer transaction as an example.
 
 <figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
-1. Choose a local Extension Wallet that's a as the transaction initiator.
+3. Choose a local Extension Wallet that's a as the transaction initiator.
+4. If you don't want to execute immediately or have multiple transactions you want to bundle for execution, you can add them to the Cache.
 
 {% hint style="info" %}
-The Multisig Pallet requires funds to be locked during multisig transactions. These funds are returned after the transaction succeeds or is canceled. It's $20 DOT on the Polkadot network and $0.2 KSM on the Kusama network.
+The Multisig Pallet/Delayed Proxy requires funds to be locked during pending status. These funds are returned after the transaction succeeds or is canceled. It's $20 DOT on the Polkadot network and $0.2 KSM on the Kusama network.
 {% endhint %}
 
 After clicking 'confirm' and signing in the extension, the transaction initiation is complete.
