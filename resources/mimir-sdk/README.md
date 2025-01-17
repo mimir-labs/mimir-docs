@@ -33,3 +33,7 @@ npm install @mimirdev/apps-inject
 ```
 pnpm add @mimirdev/apps-inject
 ```
+
+### Security Considerations
+
+Ensure that transactions are verified for safety. Mimir wraps transactions in `AsMulti`, so it's crucial to confirm that the wrapped transaction matches the expected transaction. Mimir's code is open source, ensuring transparency and security.
