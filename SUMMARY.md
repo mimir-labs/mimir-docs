@@ -30,4 +30,6 @@
 
 ## Resources
 
-* [🖥️ Mimir SDK](resources/mimir-sdk.md)
+* [🖥️ Mimir SDK](resources/mimir-sdk/README.md)
+  * [PolkadotJS App](resources/mimir-sdk/polkadotjs-app.md)
+  * [Polkadot API(PAPI)](resources/mimir-sdk/polkadot-api-papi.md)
