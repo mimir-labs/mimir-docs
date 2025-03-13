@@ -28,8 +28,11 @@
 * [🏛️ Multi-Sig Governance in Polkadot](guide/multi-sig-governance-in-polkadot.md)
 * [💹 Participate Polkadot Native Staking](guide/participate-polkadot-native-staking.md)
 
-## Resources
+## 🛠️ Developer
 
-* [🖥️ Mimir SDK](resources/mimir-sdk/README.md)
-  * [PolkadotJS App](resources/mimir-sdk/polkadotjs-app.md)
-  * [Polkadot API(PAPI)](resources/mimir-sdk/polkadot-api-papi.md)
+* [Batch API](developer/batch-api.md)
+* [🖥️ Mimir SDK](developer/mimir-sdk/README.md)
+  * [PolkadotJS App](developer/mimir-sdk/polkadotjs-app.md)
+  * [Polkadot API(PAPI)](developer/mimir-sdk/polkadot-api-papi.md)
+
+## Resources
