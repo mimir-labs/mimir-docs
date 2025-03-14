@@ -35,7 +35,7 @@ Uploaded transactions can be found.
 You can restore these transactions.&#x20;
 
 {% hint style="info" %}
-But you should notice, all these transactions will be delete after been restore.
+But you should notice, all these transactions will be delete after been submitted on chain.
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/image (3).png" alt="" width="375"><figcaption></figcaption></figure>
