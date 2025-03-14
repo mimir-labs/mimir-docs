@@ -28,8 +28,8 @@
 
 ## Advanced
 
-* [🏛️ Multi-Sig Governance in Polkadot](advanced/multi-sig-governance-in-polkadot.md)
-* [💹 Participate Polkadot Native Staking](advanced/participate-polkadot-native-staking.md)
+* [🏛️ Multi-Sig Governance in Polkadot](guide/multi-sig-governance-in-polkadot.md)
+* [💹 Participate Polkadot Native Staking](guide/participate-polkadot-native-staking.md)
 
 ***
 

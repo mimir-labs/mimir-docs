@@ -23,7 +23,7 @@ Click "Setting" on homepage. Both the ⚙️ beside name and Setting in side bar
 
 Scroll down and you will find Proposer setting.
 
-<figure><img src=".gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (28).png" alt="" width="375"><figcaption></figcaption></figure>
 
 Follow the guide to finish setting:
 

@@ -10,6 +10,16 @@ If you frequently need to assemble and send transactions and have some developme
 
 
 
+
+
+**Who can use?**
+
+All members and all proposers! If you want to reduce the risk of a Member's private key being compromised, you can use a new account as a Proposer to utilize the Batch API functionality.
+
+{% content-ref url="../proposer.md" %}
+[proposer.md](../proposer.md)
+{% endcontent-ref %}
+
 ## 2. Restore Transactions
 
 After submitting the transaction via API, log into the multisig account on Mimir and locate the **Batch** button.
