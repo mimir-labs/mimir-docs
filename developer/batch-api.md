@@ -18,11 +18,11 @@ After submitting the transaction via API, log into the multisig account on Mimir
 
 After clicking it, you will find the **Restore** button.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 Uploaded transactions can be found.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure>
 
 You can restore these transactions.&#x20;
 
@@ -30,6 +30,6 @@ You can restore these transactions.&#x20;
 But you should notice, all these transactions will be delete after been restore.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt="" width="375"><figcaption></figcaption></figure>
 
 You can found all these transactions in Batch. You can submit all of them together.

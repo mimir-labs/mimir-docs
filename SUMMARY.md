@@ -25,8 +25,15 @@
 * [🛠️ Initiate Transactions](guide/initiate-transactions.md)
 * [⚖️ Manage Transactions](guide/manage-transactions/README.md)
   * [⏳ Manage Delayed Proxy Transactions](guide/manage-transactions/manage-delayed-proxy-transactions.md)
-* [🏛️ Multi-Sig Governance in Polkadot](guide/multi-sig-governance-in-polkadot.md)
-* [💹 Participate Polkadot Native Staking](guide/participate-polkadot-native-staking.md)
+
+## Advanced
+
+* [🏛️ Multi-Sig Governance in Polkadot](advanced/multi-sig-governance-in-polkadot.md)
+* [💹 Participate Polkadot Native Staking](advanced/participate-polkadot-native-staking.md)
+
+***
+
+* [🗣️ Proposer](proposer.md)
 
 ## 🛠️ Developer
 
@@ -34,5 +41,3 @@
 * [🖥️ Mimir SDK](developer/mimir-sdk/README.md)
   * [PolkadotJS App](developer/mimir-sdk/polkadotjs-app.md)
   * [Polkadot API(PAPI)](developer/mimir-sdk/polkadot-api-papi.md)
-
-## Resources
