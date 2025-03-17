@@ -6,24 +6,13 @@
 * [💰 Multisig Introduction](product-introduction/multisig-introduction.md)
 * [Proxy Introduction](product-introduction/proxy-introduction.md)
 
-## Features
+## Basic
 
-* [💳 Accounts](features/accounts/README.md)
-  * [Advanced - Nested Multisig](features/accounts/advanced-nested-multisig.md)
-  * [Advanced - Time Delayed Proxy](features/accounts/advanced-time-delayed-proxy.md)
-* [📍 Dapps](features/dapps.md)
-* [🏧 Transaction](features/transaction.md)
-
-## Guide
-
-* [🟢 Create Multisig](guide/create-multisig/README.md)
-  * [Create Nested Multisig](guide/create-multisig/create-nested-multisig.md)
-* [🟢 Create Proxy](guide/create-proxy/README.md)
-  * [Create Pure Proxy](guide/create-proxy/create-pure-proxy.md)
-* [📥 Import/Export Multisig](guide/import-export-multisig.md)
-* [🛠️ Initiate Transactions](guide/initiate-transactions.md)
-* [⚖️ Manage Transactions](guide/manage-transactions/README.md)
-  * [⏳ Manage Delayed Proxy Transactions](guide/manage-transactions/manage-delayed-proxy-transactions.md)
+* [💳 Accounts](basic/accounts/README.md)
+  * [Advanced - Nested Multisig](basic/accounts/advanced-nested-multisig.md)
+  * [Advanced - Time Delayed Proxy](basic/accounts/advanced-time-delayed-proxy.md)
+* [📍 Dapps](basic/dapps.md)
+* [🏧 Transaction](basic/transaction.md)
 
 ## Advanced
 
@@ -32,6 +21,17 @@
 * [Call Template](advanced/call-template.md)
 * [🏛️ Multi-Sig Governance in Polkadot](guide/multi-sig-governance-in-polkadot.md)
 * [💹 Participate Polkadot Native Staking](guide/participate-polkadot-native-staking.md)
+
+## Step by step
+
+* [🟢 Create Multisig](step-by-step/create-multisig/README.md)
+  * [Create Nested Multisig](step-by-step/create-multisig/create-nested-multisig.md)
+* [🟢 Create Proxy](step-by-step/create-proxy/README.md)
+  * [Create Pure Proxy](step-by-step/create-proxy/create-pure-proxy.md)
+* [📥 Import/Export Multisig](step-by-step/import-export-multisig.md)
+* [🛠️ Initiate Transactions](step-by-step/initiate-transactions.md)
+* [⚖️ Manage Transactions](step-by-step/manage-transactions/README.md)
+  * [⏳ Manage Delayed Proxy Transactions](step-by-step/manage-transactions/manage-delayed-proxy-transactions.md)
 
 ## Safety
 
@@ -45,3 +45,7 @@
   * [PolkadotJS App](developer/mimir-sdk/polkadotjs-app.md)
   * [Polkadot API(PAPI)](developer/mimir-sdk/polkadot-api-papi.md)
   * [ReactiveDOT/DOTConnect](developer/mimir-sdk/reactivedot-dotconnect.md)
+
+## FAQs
+
+* [❓ FAQs](faqs/faqs.md)

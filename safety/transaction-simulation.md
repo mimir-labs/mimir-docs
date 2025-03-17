@@ -4,7 +4,7 @@ Chopsticks is a transaction simulation tool developed by Acala. It allows you to
 
 We recommend performing a transaction simulation both **when initiating a multisig transaction** and **when the last member approves it**.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 By running a simulation, you can:
 
