@@ -34,6 +34,7 @@
 ***
 
 * [🗣️ Proposer](proposer.md)
+* [Call Template](call-template.md)
 
 ## 🛠️ Developer
 
