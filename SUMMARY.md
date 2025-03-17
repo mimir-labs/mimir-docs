@@ -28,7 +28,7 @@
 
 ## Safety
 
-* [Page](safety/page.md)
+* [👁️ Call Data Verification](safety/call-data-verification.md)
 * [🚛 Transaction Simulation](safety/transaction-simulation.md)
 
 ## Advanced
