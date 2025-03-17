@@ -8,5 +8,5 @@ When you want to create a nested multisig, you simply need to select a multisig 
 You can create Nested Multsig as Flexible Multisig and Static Multisig.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 

@@ -22,11 +22,11 @@ All members and all proposers! If you want to reduce the risk of a Member's priv
 
 After submitting the transaction via API, log into the multisig account on Mimir and locate the **Batch** button.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 After clicking it, you will find the **Restore** button.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 Uploaded transactions can be found.
 

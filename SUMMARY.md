@@ -26,6 +26,11 @@
 * [⚖️ Manage Transactions](guide/manage-transactions/README.md)
   * [⏳ Manage Delayed Proxy Transactions](guide/manage-transactions/manage-delayed-proxy-transactions.md)
 
+## Safety
+
+* [Page](safety/page.md)
+* [🚛 Transaction Simulation](safety/transaction-simulation.md)
+
 ## Advanced
 
 * [🏛️ Multi-Sig Governance in Polkadot](guide/multi-sig-governance-in-polkadot.md)
