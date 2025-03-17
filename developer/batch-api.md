@@ -14,8 +14,8 @@ If you frequently need to assemble and send transactions and have some developme
 
 All members and all proposers! If you want to reduce the risk of a Member's private key being compromised, you can use a new account as a Proposer to utilize the Batch API functionality.
 
-{% content-ref url="../proposer.md" %}
-[proposer.md](../proposer.md)
+{% content-ref url="../advanced/proposer.md" %}
+[proposer.md](../advanced/proposer.md)
 {% endcontent-ref %}
 
 ## 2. Restore Transactions

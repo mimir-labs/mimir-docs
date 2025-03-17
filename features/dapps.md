@@ -4,6 +4,12 @@
 Mimir's Dapp serves as the gateway for Mimir to interact with other applications. Once a user selects an account (whether it's a single-signature or multisig), they can use that account to perform various operations within the ecosystem through the multiple applications listed in Dapp.&#x20;
 {% endhint %}
 
+## **Supported Mimir Apps**
+
+<figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+
+
+
 Dapp will consist of two types of applications: Mimir Dapp and third-party Dapp.
 
 ## Mimir Dapp
@@ -19,7 +25,5 @@ Many teams are also working on productization, such as Subid and Polkassembly.&#
 We will also integrate these Polkadot ecosystem applications, which can significantly lower the barriers to user interaction and have already achieved great success.&#x20;
 
 We also hope to connect with more and more applications, expanding the scope of these applications. Not only single-signature users can experience it, but multisig users can also enjoy this convenience.
-
-
 
 **List your Dapp: hello@mimir.global**

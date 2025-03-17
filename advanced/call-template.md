@@ -12,34 +12,34 @@ To address this, Mimir introduces Call Template, a feature designed to streamlin
 
 ## Template Sidebar
 
-<figure><img src=".gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
 Click the button above to open the Template sidebar.
 
-<figure><img src=".gitbook/assets/image (32).png" alt="" width="346"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (32).png" alt="" width="346"><figcaption></figcaption></figure>
 
 ## Add New Templates
 
 1. Directly click add new in Call Template page, provide Call Data and set a name for it.
 
-<figure><img src=".gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
 2. While submitting a transaction, you can click Add to Template.
 
-<figure><img src=".gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
 
 3. Find some common-used transactions in history page, then add it.
 
-<figure><img src=".gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
 ## Submit transaction template-based transaction
 
 1. Click Extrinsic on homepage, then view Call Template, copy the Call Data. (For same transactions)
 
-<figure><img src=".gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
 2. Click DOTConsole in Call Template, then edit the parameter, submit! (For transactions that need adjustments.)
 
-<figure><img src=".gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>

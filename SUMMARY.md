@@ -13,7 +13,6 @@
   * [Advanced - Time Delayed Proxy](features/accounts/advanced-time-delayed-proxy.md)
 * [📍 Dapps](features/dapps.md)
 * [🏧 Transaction](features/transaction.md)
-* [💼 Cache](features/cache.md)
 
 ## Guide
 
@@ -26,20 +25,18 @@
 * [⚖️ Manage Transactions](guide/manage-transactions/README.md)
   * [⏳ Manage Delayed Proxy Transactions](guide/manage-transactions/manage-delayed-proxy-transactions.md)
 
+## Advanced
+
+* [💼 Batch](advanced/batch.md)
+* [🗣️ Proposer](advanced/proposer.md)
+* [Call Template](advanced/call-template.md)
+* [🏛️ Multi-Sig Governance in Polkadot](guide/multi-sig-governance-in-polkadot.md)
+* [💹 Participate Polkadot Native Staking](guide/participate-polkadot-native-staking.md)
+
 ## Safety
 
 * [👁️ Call Data Verification](safety/call-data-verification.md)
 * [🚛 Transaction Simulation](safety/transaction-simulation.md)
-
-## Advanced
-
-* [🏛️ Multi-Sig Governance in Polkadot](guide/multi-sig-governance-in-polkadot.md)
-* [💹 Participate Polkadot Native Staking](guide/participate-polkadot-native-staking.md)
-
-***
-
-* [🗣️ Proposer](proposer.md)
-* [Call Template](call-template.md)
 
 ## 🛠️ Developer
 
