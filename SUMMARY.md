@@ -29,7 +29,7 @@
   * [Create Nested Multisig](step-by-step/create-multisig/create-nested-multisig.md)
 * [🟢 Create Proxy](step-by-step/create-proxy/README.md)
   * [Create Pure Proxy](step-by-step/create-proxy/create-pure-proxy.md)
-* [📥 Import/Export Multisig](step-by-step/import-export-multisig.md)
+* [📥 Import Multisig](step-by-step/import-multisig.md)
 * [🛠️ Initiate Transactions](step-by-step/initiate-transactions.md)
 * [⚖️ Manage Transactions](step-by-step/manage-transactions/README.md)
   * [⏳ Manage Delayed Proxy Transactions](step-by-step/manage-transactions/manage-delayed-proxy-transactions.md)
