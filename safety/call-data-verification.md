@@ -1,4 +1,4 @@
-# 👁️ Call Data Verification
+# 🔍 Call Data Verification
 
 Polkadot & parachains use Polkadot-SDK, ensuring all transactions have on-chain metadata—no unreadable 0xbytes. If you don’t fully trust calldata during execution, Mimir also provides additional verification tools to help you ensure transaction security.
 

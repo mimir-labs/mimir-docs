@@ -16,6 +16,7 @@
 
 ## Advanced
 
+* [👀 Watchlist](advanced/watchlist.md)
 * [💼 Batch](advanced/batch.md)
 * [🗣️ Proposer](advanced/proposer.md)
 * [Call Template](advanced/call-template.md)
@@ -35,7 +36,7 @@
 
 ## Safety
 
-* [👁️ Call Data Verification](safety/call-data-verification.md)
+* [🔍 Call Data Verification](safety/call-data-verification.md)
 * [🚛 Transaction Simulation](safety/transaction-simulation.md)
 
 ## 🛠️ Developer
