@@ -8,19 +8,25 @@ Mimir's Dapp serves as the gateway for Mimir to interact with other applications
 
 <figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
 
+**Commen Use**: [DOTConsole](https://app.mimir.global/explorer/https%3A%2F%2Fdotconsole.app%2F%3Fchain%3Dpolkadot?network=polkadot), [Apps](https://app.mimir.global/explorer/https%3A%2F%2Fapps.mimir.global%2F%3Frpc%3Dwss%3A%2F%2Fpolkadot-rpc.publicnode.com?network=polkadot)
 
+**OpenGov**: [Subsquare](https://app.mimir.global/explorer/https%3A%2F%2Fpolkadot.subsquare.io%2F?network=polkadot)
 
-Dapp will consist of two types of applications: Mimir Dapp and third-party Dapp.
+**Identity**: [Polkaidentity](https://app.mimir.global/explorer/https%3A%2F%2Fapp.polkaidentity.com%2F?network=people-polkadot)
 
-## Mimir Dapp
+**Bounty**: [Bounty Manager](https://app.mimir.global/explorer/https%3A%2F%2Fbountymanager.io%2F?network=polkadot)
 
-Mimir Dapps are launched by the Mimir team after productizing the Pallet. Mimir Dapps present commonly used Pallets in the form of a Dapp, aiming to lower the entry barrier and enhance user-friendliness for the Polkadot ecosystem users.&#x20;
+**Staking**: [Staking](https://app.mimir.global/explorer/https%3A%2F%2Fstaking.mimir.global%2F?network=polkadot)
 
-Currently, we have productized the Transfer, and in the future, we plan to offer productized solutions for common features like Proxy, Governance, Batch, etc.
+**XCM**: [Bifrost App](https://app.mimir.global/explorer/https%3A%2F%2Fbifrost.app%2F?network=bifrost-polkadot)
+
+**Defi**: [Bifrost App](https://app.mimir.global/explorer/https%3A%2F%2Fbifrost.app%2F?network=bifrost-polkadot)
+
+**Storage**: [CrustFiles](https://app.mimir.global/explorer/https%3A%2F%2Fcrustfiles.io%2F?network=crust)
 
 ## Third-Party Dapp
 
-Many teams are also working on productization, such as Subid and Polkassembly.&#x20;
+Many teams are also working on productization, such as Subsquare and Polkaidentity.&#x20;
 
 We will also integrate these Polkadot ecosystem applications, which can significantly lower the barriers to user interaction and have already achieved great success.&#x20;
 
