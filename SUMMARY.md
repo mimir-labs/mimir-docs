@@ -16,7 +16,8 @@
 
 ***
 
-* [🪢 Omni UX](omni-ux/README.md)
+* [🪢 Omni UX](omni-ux.md)
+  * [🔙 Switch to Solo mode](omni-ux/switch-to-solo-mode.md)
   * [💬 Address Format And Identity](omni-ux/address-format-and-identity.md)
 
 ## Advanced
