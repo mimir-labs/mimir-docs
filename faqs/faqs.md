@@ -4,7 +4,7 @@ We listed some FAQs, if you have other questions, feel free to send to hello@mim
 
 ## 1. What is 'lock' during initiate multisig transaction, is that necessary?
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 {% embed url="https://blog.mimir.global/what-is-multisig-deposit-in-polkadot-4cde18f0a856" %}
 

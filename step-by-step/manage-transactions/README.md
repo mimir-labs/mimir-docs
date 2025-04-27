@@ -20,7 +20,7 @@ If you initiated the transaction, you can choose to cancel it. Once canceled, it
 
 ### Restore
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 If this transaction was initiated through another application, you can enter the Call Data to restore the transaction.
 

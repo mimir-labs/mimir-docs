@@ -6,11 +6,11 @@ Batch transactions allow users to bundle multiple operations into a single trans
 
 Click batch above to open side bar.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Batch sidebar:
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ➕ Duplicate: duplicate a same transaction in Batch
 
@@ -18,7 +18,7 @@ Batch sidebar:
 
 Select transactions you want to submit and confirm.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 You will put them together in one transaction.
 

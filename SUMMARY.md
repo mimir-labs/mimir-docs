@@ -14,6 +14,10 @@
 * [📍 Dapps](basic/dapps.md)
 * [🏧 Transaction](basic/transaction.md)
 
+***
+
+* [🪢 Omni UX](omni-ux.md)
+
 ## Advanced
 
 * [👀 Watchlist](advanced/watchlist.md)
