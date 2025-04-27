@@ -6,6 +6,12 @@
 * [💰 Multisig Introduction](product-introduction/multisig-introduction.md)
 * [Proxy Introduction](product-introduction/proxy-introduction.md)
 
+***
+
+* [🪢 Omni UX](omni-ux.md)
+  * [🔙 Switch to Solo mode](omni-ux/switch-to-solo-mode.md)
+  * [💬 Address Format And Identity](omni-ux/address-format-and-identity.md)
+
 ## Basic
 
 * [💳 Accounts](basic/accounts/README.md)
@@ -13,12 +19,6 @@
   * [Advanced - Time Delayed Proxy](basic/accounts/advanced-time-delayed-proxy.md)
 * [📍 Dapps](basic/dapps.md)
 * [🏧 Transaction](basic/transaction.md)
-
-***
-
-* [🪢 Omni UX](omni-ux.md)
-  * [🔙 Switch to Solo mode](omni-ux/switch-to-solo-mode.md)
-  * [💬 Address Format And Identity](omni-ux/address-format-and-identity.md)
 
 ## Advanced
 
@@ -28,6 +28,10 @@
 * [Call Template](advanced/call-template.md)
 * [🏛️ Multi-Sig Governance in Polkadot](guide/multi-sig-governance-in-polkadot.md)
 * [💹 Participate Polkadot Native Staking](guide/participate-polkadot-native-staking.md)
+
+***
+
+* [📶 Customize RPC](customize-rpc.md)
 
 ## Step by step
 
