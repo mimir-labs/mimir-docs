@@ -16,7 +16,8 @@
 
 ***
 
-* [🪢 Omni UX](omni-ux.md)
+* [🪢 Omni UX](omni-ux/README.md)
+  * [💬 Address Format And Identity](omni-ux/address-format-and-identity.md)
 
 ## Advanced
 

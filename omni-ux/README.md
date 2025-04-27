@@ -12,7 +12,7 @@ Mimir's Omni UX enables seamless cross-chain multisig management within a single
 
 On the network selection page, simply toggle on the networks you wish to connect to. Mimir will automatically establish connections to these networks, and afterward, you’ll be able to initiate on-chain transactions across them without any need for manual network switching.
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 🟢: Connected
 
@@ -24,7 +24,7 @@ On the network selection page, simply toggle on the networks you wish to connect
 
 No need to switch networks—just select the appropriate network when sending the transaction.
 
-<figure><img src=".gitbook/assets/image (3).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt="" width="375"><figcaption></figcaption></figure>
 
 You don't need to manage networks within Mimir—simply switch networks directly within the application. Mimir will build the transaction on the correct network for you.&#x20;
 
@@ -32,10 +32,10 @@ You don't need to manage networks within Mimir—simply switch networks directly
 As long as the network is supported by Mimir, you don’t need to worry about being connected—Mimir will automatically handle the connection.
 {% endhint %}
 
-<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ## Handle transactions together
 
 The Pending Transactions page will display all pending transactions across the connected networks. You can select the networks you need— the number in parentheses indicates how many pending transactions are on each network.
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
