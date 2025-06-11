@@ -32,6 +32,7 @@
 ***
 
 * [📶 Customize RPC](customize-rpc.md)
+* [🛜 Remote Proxy](remote-proxy.md)
 
 ## Step by step
 
