@@ -28,5 +28,5 @@ Mimir already supports various forms of nesting.
 
 From there, you can use Remote Proxy just like any regular proxy account — to send or receive funds, participate in governance, staking, or any other supported actions. Without worrying about asset loss.
 
-
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 

@@ -18,7 +18,7 @@ Batch sidebar:
 
 Select transactions you want to submit and confirm.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 You will put them together in one transaction.
 
