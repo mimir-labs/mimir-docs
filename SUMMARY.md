@@ -1,8 +1,12 @@
 # Table of contents
 
+## Notice
+
+* [Asset Hub Migration](README.md)
+
 ## Product Introduction
 
-* [💡 Mimir Introduction](README.md)
+* [💡 Mimir Introduction](<README (1).md>)
 * [💰 Multisig Introduction](product-introduction/multisig-introduction.md)
 * [Proxy Introduction](product-introduction/proxy-introduction.md)
 
@@ -11,6 +15,7 @@
 * [🪢 Omni UX](omni-ux.md)
   * [🔙 Switch to Solo mode](omni-ux/switch-to-solo-mode.md)
   * [💬 Address Format And Identity](omni-ux/address-format-and-identity.md)
+* [Asset Hub Migration](asset-hub-migration.md)
 
 ## Basic
 
