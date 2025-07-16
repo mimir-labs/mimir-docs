@@ -12,7 +12,7 @@ The main goal is to migrate all the **staking**, **governance** and **balances**
 
 **Westend->Westend Asset Hub:** May, 15th
 
-**Paseo -> Paseo Asset Hub:** July, 7th
+**Paseo -> Paseo Asset Hub:** July, 7th (Delayed)
 
 **Kusama -> Kusama Asset Hub:** August, 4th
 
