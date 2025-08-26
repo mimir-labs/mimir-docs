@@ -14,9 +14,9 @@ The main goal is to migrate all the **staking**, **governance** and **balances**
 
 **Paseo -> Paseo Asset Hub:** July, 7th (Delayed)
 
-**Kusama -> Kusama Asset Hub:** August, 4th
+**Kusama -> Kusama Asset Hub:** Oct, 7th
 
-**Polkadot -> Polkadot Asset Hub:** September, 15th
+**Polkadot -> Polkadot Asset Hub:** Nov, 4th
 
 ## What happened after the Asset Hub Migration?
 
