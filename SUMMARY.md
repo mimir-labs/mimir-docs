@@ -3,8 +3,9 @@
 ## Product Introduction
 
 * [💡 Mimir Introduction](README.md)
-* [💰 Multisig Introduction](product-introduction/multisig-introduction.md)
-* [Proxy Introduction](product-introduction/proxy-introduction.md)
+* [Mechanism](product-introduction/mechanism/README.md)
+  * [💰 Multisig Introduction](product-introduction/mechanism/multisig-introduction.md)
+  * [Proxy Introduction](product-introduction/mechanism/proxy-introduction.md)
 * [Why Multisig/Proxy Matters In Polkadot](product-introduction/why-multisig-proxy-matters-in-polkadot.md)
 
 ***

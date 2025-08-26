@@ -10,7 +10,7 @@ Multi-signature accounts have several uses:
 * Board decisions: legal entities such as businesses and foundations use multisigs to govern over the entity's treasury collectively.
 * Group participation in governance: a multisig account can do everything a regular account can. A multisig account could be a council member in Kusama's governance, where a set of community members could vote as one entity.
 
-<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 **Reference**
 
