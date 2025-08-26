@@ -5,6 +5,7 @@
 * [💡 Mimir Introduction](README.md)
 * [💰 Multisig Introduction](product-introduction/multisig-introduction.md)
 * [Proxy Introduction](product-introduction/proxy-introduction.md)
+* [Why Multisig/Proxy Matters In Polkadot](product-introduction/why-multisig-proxy-matters-in-polkadot.md)
 
 ***
 
