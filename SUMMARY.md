@@ -69,3 +69,4 @@
 ## FAQs
 
 * [❓ FAQs](faqs/faqs.md)
+* [Contact Us](faqs/contact-us.md)
